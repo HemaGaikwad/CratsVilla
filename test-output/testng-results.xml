@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Element Present]]>
+    </line>
+    <line>
+      <![CDATA[Element Present]]>
+    </line>
+    <line>
+      <![CDATA[Element Present]]>
+    </line>
+  </reporter-output>
+  <suite name="CraftsVilla" duration-ms="15325" started-at="2018-02-26T01:28:06Z" finished-at="2018-02-26T01:28:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15325" started-at="2018-02-26T01:28:06Z" finished-at="2018-02-26T01:28:22Z">
+      <class name="com.craftsvilla.scripts.AccessoriesScripts">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.craftsvilla.scripts.AccessoriesScripts@2f943d71]" name="openApp" is-config="true" duration-ms="5106" started-at="2018-02-26T01:28:06Z" finished-at="2018-02-26T01:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="AddWatchToCart()[pri:0, instance:com.craftsvilla.scripts.AccessoriesScripts@2f943d71]" name="AddWatchToCart" duration-ms="10180" started-at="2018-02-26T01:28:12Z" finished-at="2018-02-26T01:28:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Element Present]]>
+            </line>
+            <line>
+              <![CDATA[Element Present]]>
+            </line>
+            <line>
+              <![CDATA[Element Present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddWatchToCart -->
+      </class> <!-- com.craftsvilla.scripts.AccessoriesScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- CraftsVilla -->
+</testng-results>
